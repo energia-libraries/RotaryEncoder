@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For BLE Energia
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RotaryEncoder                   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin                           KEYWORD2
+handle_encoder                  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DIRECTION_NONE                  LITERAL1
+DIRECTION_CCW                   LITERAL1
+DIRECTION_CW                    LITERAL1
+
